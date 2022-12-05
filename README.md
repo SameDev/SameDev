@@ -1,6 +1,5 @@
 <img align="right" height="590em" src="https://github.com/SameDev/portifolio/blob/main/images/cartao.PNG?raw=true"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Samuel Amaral</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Junior Web Developer & Designer
 
