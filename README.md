@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://portifolio-samuel.vercel.app/images/cartao.webp"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Samuel Amaral</h1>
+<h1 align="left">Hi, I'm Samuel Amaral</h1>
 
 - 🔥 Junior Web Developer & Designer
 
