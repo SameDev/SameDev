@@ -25,25 +25,14 @@
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=SameDev&show_icons=true&theme=vision-friendly-dark" alt="SameDev's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameDev&layout=compact&theme=vision-friendly-dark" alt="SameDev's most languages"/>
-</p>
-
-
-<br><br>
-
 ## Contact
 
 <a href="https://instagram.com/13samuelconradt" target="_blank">
  <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/>
 </a>
-<a  href="[https://instagram.com/maykbrito](https://api.whatsapp.com/send?phone=5548999270576)" target="_blank">
+<a href="https://api.whatsapp.com/send?phone=554999270576" target="_blank">
  <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
 </a>
-<a  href="mailto:conradtsamuel@gmail.com" target="_blank">
+<a href="mailto:conradtsamuel@gmail.com" target="_blank">
  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-</p>
