@@ -21,7 +21,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&color=121E33)&nbsp;
-![MYSql](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&color=121E33)&nbsp;
+![MYSql](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&color=121E33&logoColor=f1f1f1)&nbsp;
 
 <br><br>
 
