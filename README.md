@@ -1,5 +1,4 @@
-<img align="right" height="590em" src="https://portifolio-samuel.vercel.app/images/cartao.webp"/>
-<h1 align="left">Hi, I'm Samuel Amaral</h1>
+<h1>Hi, I'm Samuel Amaral</h1>
 
 - 🔥 Junior Web Developer & Designer
 
