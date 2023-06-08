@@ -1,6 +1,6 @@
 <h1>Hi, I'm Samuel Amaral</h1>
 
-- 🔥 Junior Web Developer & Designer
+- 🔥 Junior PHP Web Developer & Designer
 
 - 👨‍💻 More at my [portifolio](https://portifolio-samuel.vercel.app/)
 
