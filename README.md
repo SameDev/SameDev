@@ -1,6 +1,6 @@
-<h1>Hi, I'm Samuel Amaral</h1>
+<h1>Hi, I'm Samuel Conradt</h1>
 
-- 🔥 Junior PHP Web Developer & Designer
+- 🔥 Junior Sotware Engineer
 
 - 👨‍💻 More at my [portifolio](https://portifolio-samuel.vercel.app/)
 
