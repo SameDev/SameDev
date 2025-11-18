@@ -4,7 +4,7 @@
 
 <h3>🔗 Explore More:</h3>
 <ul>
-    <li>🌐 <strong>Portfolio:</strong> <a href="https://portifolio-samuel.vercel.app/" target="_blank">samuelconradt.com</a></li>
+    <li>🌐 <strong>Portfolio:</strong> <a href="https://samuel.redstoneweb.com.br/" target="_blank">samuel.redstoneweb.com.br</a></li>
     <li>📌 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/samuel-conradt-b5a77b27a/" target="_blank">Samuel Conradt</a></li>
 </ul>
 
