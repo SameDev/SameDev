@@ -1,4 +1,4 @@
-<h2>👨‍💻 Junior Software Engineer | Tech Innovator</h2>
+<h2>👨‍💻 Software Engineer | Data Scientist</h2>
 
 <p>Passionate about transforming ideas into powerful digital solutions. I develop applications, websites, and systems that optimize business processes, helping companies and freelancers scale efficiently.</p>
 
