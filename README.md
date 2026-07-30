@@ -1,45 +1,118 @@
-<h2>👨‍💻 Software Engineer | Data Scientist</h2>
+# Hi, I'm Samuel Conradt 👋
 
-<p>Passionate about transforming ideas into powerful digital solutions. I develop applications, websites, and systems that optimize business processes, helping companies and freelancers scale efficiently.</p>
+Software Engineer from Brazil focused on building scalable backend systems, SaaS platforms and modern web applications.
 
-<h3>🔗 Explore More:</h3>
-<ul>
-    <li>🌐 <strong>Portfolio:</strong> <a href="https://samuel.redstoneweb.com.br/" target="_blank">samuel.redstoneweb.com.br</a></li>
-    <li>📌 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/samuel-conradt-b5a77b27a/" target="_blank">Samuel Conradt</a></li>
-</ul>
+I have professional experience designing and developing production software for healthcare, legal and business management systems, working with software architecture, technical leadership and modern web technologies.
 
-<hr>
+## 🚀 About Me
 
-<h2>🛠 Tech Stack</h2>
-<p>
-    <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript">
-    <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="Node.js">
-    <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python">
-    <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML">
-    <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS">
-    <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React">
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&color=121E33" alt="Vue.js">
-    <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git">
-    <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub">
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&color=121E33" alt="PHP">
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&color=121E33&logoColor=f1f1f1" alt="MySQL">
+- 💼 Software Engineer with experience in real-world SaaS products
+- 🏗️ Software Architecture (DDD, Clean Architecture & Modular Monolith)
+- ⚙️ Backend focused (Node.js, NestJS & PostgreSQL)
+- 🌐 Full Stack experience with React, Next.js and Angular
+- 👨‍🏫 Technical leadership, code review and TDD adoption
+- 🐧 Linux enthusiast & Docker user
+
+## 💼 Professional Experience
+
+During my professional career I've contributed to production systems including:
+
+### 🏥 Healthcare Platform
+
+- ERP for clinics
+- Electronic medical records
+- Digital prescriptions
+- Video consultations (WebRTC)
+- Multi-tenant architecture
+- Payment integrations
+
+### ⚖️ Legal ERP
+
+- CRM
+- Financial management
+- Third-party integrations
+- Modular architecture
+
+### 🖥️ Infrastructure Platform
+
+- VPS management
+- Docker-based environments
+- Linux server administration
+- Mail server management
+
+### 📅 Medical Scheduling Platform
+
+- Financial module
+- API Gateway
+- Geolocation
+- Electronic time tracking
+- Payment workflows
+
+> Most of these projects are proprietary and cannot be published publicly.
+
+## 🛠 Tech Stack
+
+### Languages
+
+TypeScript • JavaScript • Java • PHP • Python
+
+### Backend
+
+Node.js • NestJS • Spring Boot • Express
+
+### Frontend
+
+React • Next.js • Angular • Vue • Nuxt
+
+### Database
+
+PostgreSQL • MySQL • Prisma • TypeORM
+
+### Infrastructure
+
+Docker • Linux • Caddy • GitHub Actions • Grafana • Uptime Kuma
+
+### Architecture
+
+DDD • Clean Architecture • Modular Monolith • Multi-Tenant • JWT • RBAC • REST APIs • WebSockets • WebRTC
+
+## 🌟 Open Source Projects
+
+Although most of my professional work is private, here are some public projects:
+
+### 🎵 LunareMusic
+
+Music platform focused on modern architecture and scalable backend.
+
+### 🎵 Starting Music
+
+Music streaming platform with recommendation engine.
+
+### 🤖 VonIA
+
+Artificial Intelligence assistant focused on Computer Science.
+
+### 📈 BinaryFI
+
+Spotify case study using Binary Search concepts.
+
+### 📚 DisciplineOS
+
+Personal organization and productivity platform.
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SameDev&show_icons=true&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameDev&layout=compact&hide_border=true" />
 </p>
 
-<hr>
+---
 
-<h2>📢 Get in Touch</h2>
-<p>
-    <a href="https://instagram.com/13samuelconradt" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="https://api.whatsapp.com/send?phone=554999270576" target="_blank">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-    </a>
-    <a href="mailto:conradtsamuel@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-</p>
+## 🌐 Connect with Me
 
-<hr>
+- 🌍 Portfolio: https://samuel.redstoneweb.com.br
+- 💼 LinkedIn: https://www.linkedin.com/in/samuel-conradt-b5a77b27a
+- 📧 Email: conradtsamuel@gmail.com
 
-<p>© 2025 Samuel Conradt. All rights reserved.</p>
+> *"So if you want to go fast, if you want to get done quickly, make it easy to read"*
